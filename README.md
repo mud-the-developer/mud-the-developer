@@ -8,7 +8,7 @@
 
 ---
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mud-the-developer&theme=tokyonight" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mud-the-developer&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mud-the-developer&theme=tokyonight" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mud-the-developer&layout=compact&langs_count=8&card_width=310&theme=tokyonight" />
 
 
 ---
