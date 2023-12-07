@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mud%20the%20developer&animation=fadeIn&fontSize=90)
 
+---
+### 🏠  My Links
   
 <a href="https://www.linkedin.com/in/jinhyuk-kim-a97b42242/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wandb.ai/mudmud611"><img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=white"/></a>
@@ -7,12 +9,14 @@
 <a href="https://mud-the-developer.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ---
+### 🔥 My Stats
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mud-the-developer&theme=tokyonight" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mud-the-developer&layout=compact&langs_count=8&card_width=310&theme=tokyonight" />
 
 
 ---
-  
+### 🙃 Programming languages I have experience with
+
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -26,12 +30,15 @@
 ![deno](https://shield.deno.dev/x/lodash)
 
 ---
+### 💻 Operating systems I have experience with
+
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![ubu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ele](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
 
 ---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight&locale=ko)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
 
