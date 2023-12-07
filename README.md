@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mud%20the%20developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mud%20the%20developer&fontSize=90)
 
-![Mud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mud-the-developer&show_icons=true&theme=radical&layout=compact)  
+  
+<a href=""><img src="https://img.shields.io/badge/?style=flat-square&logo=linkedin&logoColor=#0A66C2"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-the-developer&show_icons=true&theme=radical&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+![Mud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mud-the-developer&hide=stars,prs&theme=tokyonight)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-the-developer&show_icons=true&theme=tokyonight&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
