@@ -32,7 +32,11 @@
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ele](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
 
-### Hi there 👋
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
+
+---
 
 <!--
 **mud-the-developer/mud-the-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
