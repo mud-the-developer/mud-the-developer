@@ -8,11 +8,10 @@
 
 ---
 
-![Mud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mud-the-developer&hide=stars,prs&theme=tokyonight)  
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mud-the-developer&theme=tokyonight" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mud-the-developer&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-the-developer&show_icons=true&theme=tokyonight&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
   
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
