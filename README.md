@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mud%20the%20developer&fontSize=90)
+
+![Mud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mud-the-developer&show_icons=true&theme=radical&layout=compact)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-the-developer&show_icons=true&theme=radical&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
