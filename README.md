@@ -39,7 +39,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight&locale=ko)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
@@ -49,6 +48,7 @@
 
 Here are some ideas to get you started:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight&locale=ko)](https://git.io/streak-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
