@@ -8,15 +8,13 @@
 <a href="https://mud-the-developer.vercel.app"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://mud-the-developer.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
----
+<!-- ---
 ### 🔥 My Stats
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mud-the-developer&theme=tokyonight" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mud-the-developer&layout=compact&langs_count=8&card_width=310&theme=tokyonight" />
-
+-->
 
 ---
-### 🙃 Programming languages I have experience with
-
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -29,8 +27,7 @@
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ---
-### 💻 Operating systems I have experience with
-
+### 💻
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![ubu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
