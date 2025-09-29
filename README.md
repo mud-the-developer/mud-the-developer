@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mud%20the%20developer&animation=fadeIn&fontSize=90)
 
 ---
-### 🏠  My Links
+### 🏠
   
 <a href="https://www.linkedin.com/in/jinhyuk-kim-a97b42242/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wandb.ai/mudmud611"><img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=white"/></a>
@@ -15,6 +15,7 @@
 -->
 
 ---
+### 🦕
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
