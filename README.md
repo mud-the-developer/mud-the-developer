@@ -27,6 +27,7 @@
 ![sve](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+
 ---
 ### 💻
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -34,13 +35,15 @@
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ele](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
 ![lxm](https://img.shields.io/badge/Linux%20mint-87CF32?style=for-the-badge&logo=linux%20mint&logoColor=white)
-![arch]
 
+
+<!--
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+-->
 
 <!--
 **mud-the-developer/mud-the-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
