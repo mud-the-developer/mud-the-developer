@@ -34,6 +34,7 @@
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ele](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
 ![lxm](https://img.shields.io/badge/Linux%20mint-87CF32?style=for-the-badge&logo=linux%20mint&logoColor=white)
+![arch]
 
 ---
 
