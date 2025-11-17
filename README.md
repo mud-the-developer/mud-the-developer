@@ -31,7 +31,7 @@
 ---
 ### 💻
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![ubu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ubu](https://img.shields.io/badge/archlinux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ele](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
 ![lxm](https://img.shields.io/badge/Linux%20mint-87CF32?style=for-the-badge&logo=linux%20mint&logoColor=white)
