@@ -35,7 +35,6 @@
 ---
 ### 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mud-the-developer&theme=tokyonight" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mud-the-developer&layout=compact&langs_count=8&card_width=310&theme=tokyonight" />
 
 ---
 
