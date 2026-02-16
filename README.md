@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jinhyuk-kim-a97b42242/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wandb.ai/mudmud611"><img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=white"/></a>
 <!-- <a href="https://mud-the-developer.vercel.app"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a> -->
-<a href="https://4620f88f.mud-blog.pages.dev"><img src="https://img.shields.io/badge/cloudflare-#F38020?style=flat-square&logo=cloudflare&logoColor=#F38020"/></a>
+<a href="https://mud-blog.pages.dev"><img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"></a>
 <a href="https://mud-the-developer.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <!-- ---
