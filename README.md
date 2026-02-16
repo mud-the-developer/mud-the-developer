@@ -22,7 +22,7 @@
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,rust,bash,xml,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/mud-the-developer)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,vercel,nodejs,aws,jupyter)](https://github.com/mud-the-developer)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,vercel,nodejs,aws,jupyter)](https://github.com/mud-the-developer)
 
 ---
 ### 💻
