@@ -4,9 +4,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=repositories,commits)](https://github.com/mud-the-developer)
 
----
-### 🏠
-  
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
 [![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://mud-the-developer.tistory.com)
@@ -24,7 +21,10 @@
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,rust,bash,xml,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,rust,bash,xml,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/mud-the-developer)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,,mongodb,vercel,nodejs,aws,jupyter)](https://github.com/mud-the-developer)
+
 ---
 ### 💻
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
