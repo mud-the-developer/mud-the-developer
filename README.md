@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)-->
 # Hi, I'm mud
-### AI-RAN Researcher| GPU Acceleration Enthusiast | vRAN Developer |
+### <sub>AI-RAN Researcher • GPU Acceleration Enthusiast • vRAN Developer</sub>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=repositories,commits)](https://github.com/mud-the-developer)
 
