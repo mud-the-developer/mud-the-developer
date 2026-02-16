@@ -1,5 +1,4 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)-->
-<div align="center">
 # Hi, I'm mud
 ### AI-RAN Researcher| GPU Acceleration Enthusiast | vRAN Developer |
 
@@ -14,11 +13,6 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://mud-the-developer.tistory.com)
 
 ---
-
-### Core Technologies
-![5G](https://img.shields.io/badge/5G%20RAN-0066CC?style=for-the-badge&logo=5g&logoColor=white)
-![OpenAirInterface](https://img.shields.io/badge/OpenAirInterface-FF6B00?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-
 ### 🦕
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
