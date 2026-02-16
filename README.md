@@ -1,12 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)-->
 # Hi, I'm mud
-### <sub>AI-RAN Researcher • GPU Acceleration Enthusiast • vRAN Developer</sub>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=repositories,commits)](https://github.com/mud-the-developer)
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
 [![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://mud-the-developer.tistory.com)
+### <sub>AI-RAN Researcher • GPU Acceleration Enthusiast • vRAN Developer</sub>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=repositories,commits)](https://github.com/mud-the-developer)
 <!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
