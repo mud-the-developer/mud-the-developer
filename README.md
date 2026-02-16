@@ -24,7 +24,7 @@
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,rust,bash,xml,json,yaml,postgresql,mysql,powershell,sveltekit,deno,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,rust,bash,xml,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 ---
 ### 💻
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
