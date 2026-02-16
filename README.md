@@ -9,9 +9,9 @@
 ---
 ### 🏠
   
-<a href="https://www.linkedin.com/in/jinhyuk-kim-a97b42242/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://mud-blog.pages.dev"><img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"></a>
-<a href="https://mud-the-developer.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
+[![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://mud-the-developer.tistory.com)
 
 ---
 
