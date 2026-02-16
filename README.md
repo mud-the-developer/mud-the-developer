@@ -21,7 +21,7 @@
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,rust,bash,xml,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/mud-the-developer)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,rust,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/mud-the-developer)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,vercel,nodejs,aws,jupyter)](https://github.com/mud-the-developer)
 
 ---
