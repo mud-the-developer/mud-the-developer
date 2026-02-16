@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)-->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 
 ---
 ### 🏠
