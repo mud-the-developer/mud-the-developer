@@ -1,3 +1,5 @@
+<p align="center">
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)-->
 # Hi, I'm mud
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
@@ -36,3 +38,4 @@
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
+</p>
