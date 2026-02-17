@@ -7,10 +7,6 @@
 ### <sub>AI-RAN Researcher • GPU Acceleration Enthusiast • vRAN Developer</sub>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=repositories,commits)](https://github.com/mud-the-developer)
-
-![Citations](https://vercel-google-scholar-publications.vercel.app/api/widget?scholar_id=-Uiul2AAAAAJ&hl=en&count=3)
-
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,rust,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/mud-the-developer)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,vercel,nodejs,aws,jupyter)](https://github.com/mud-the-developer)
 
