@@ -3,25 +3,21 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)-->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mud-the-developer&data=repositories,commits)](https://github.com/mud-the-developer)
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
 [![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://mud-the-developer.tistory.com)
 
-## <sub>AI-RAN • LLM • Quantum AI Developer</sub>
+# <sub>AI-RAN • LLM • Quantum AI Developer</sub>
 [![Scholar](https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3)](https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,rust,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/mud-the-developer)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,vercel,nodejs,aws,jupyter)](https://github.com/mud-the-developer)
 
 ---
-## 💻
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![arc](https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
 ---
-## 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
 
 
