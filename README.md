@@ -10,11 +10,11 @@
 
 # <sub>AI-RAN • LLM • Quantum AI Developer</sub>
 [![Scholar](https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3)](https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3)
----
+<!---
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![arc](https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+-->
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
 
