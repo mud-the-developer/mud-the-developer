@@ -1,6 +1,6 @@
 <div align="left">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&animation=fadeIn&fontSize=90)
 
 # <sub>AI-RAN • LLM • Quantum Computing</sub>
 [![Scholar](https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3)](https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3)
