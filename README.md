@@ -9,7 +9,6 @@
 ![arc](https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
----
 [![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
 ---
 # Links
