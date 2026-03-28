@@ -23,12 +23,18 @@
   </a>
 </p>
 
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/mud-the-developer/mud-the-developer/main/github-metrics.svg"
-    width="95%"
-    alt="GitHub Metrics"
-  />
-</p>
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <img src="./metrics-overview.svg" width="100%" alt="GitHub Overview" />
+    </td>
+    <td width="33.33%" valign="top">
+      <img src="./metrics-languages.svg" width="100%" alt="Languages" />
+    </td>
+    <td width="33.33%" valign="top">
+      <img src="./metrics-wakatime.svg" width="100%" alt="WakaTime" />
+    </td>
+  </tr>
+</table>
 
 
