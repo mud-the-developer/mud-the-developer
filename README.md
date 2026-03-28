@@ -14,6 +14,7 @@ Researching robust AI for wireless networks, LLM-based RAN intelligence, and sys
   <a href="https://scholar.google.com/citations?user=-Uiul2AAAAAJ">
     <img
       src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3"
+      width="100%"
       alt="Google Scholar"
     />
   </a>
@@ -22,7 +23,6 @@ Researching robust AI for wireless networks, LLM-based RAN intelligence, and sys
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/mud-the-developer/mud-the-developer/main/github-metrics.svg"
-    <!-- width="100%" -->
     alt="GitHub Metrics"
   />
 </p>
