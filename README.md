@@ -6,6 +6,11 @@
   />
 </p>
 
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
+[![Blog](https://img.shields.io/badge/Blog-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://mud-the-developer.tistory.com)
+
 # <sub>AI-RAN • LLM • Quantum Computing</sub>
 
 <p align="left">
@@ -26,10 +31,4 @@
   />
 </p>
 
----
 
-## Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
-[![Blog](https://img.shields.io/badge/Blog-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://mud-the-developer.tistory.com)
