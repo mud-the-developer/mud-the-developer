@@ -25,13 +25,6 @@
   />
 </p>
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact"
-    alt="WakaTime Stats"
-  />
-</p>
-
 ---
 
 ## Links
