@@ -22,7 +22,7 @@ Researching robust AI for wireless networks, LLM-based RAN intelligence, and sys
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/mud-the-developer/mud-the-developer/main/github-metrics.svg"
-    width="100%"
+    <!-- width="100%" -->
     alt="GitHub Metrics"
   />
 </p>
