@@ -1,7 +1,7 @@
 <p align="left">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&animation=fadeIn"
-    width="95%"
+    width="96%"
     alt="header"
   />
 </p>
@@ -17,7 +17,7 @@
   <a href="https://scholar.google.com/citations?user=-Uiul2AAAAAJ">
     <img
       src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3"
-      width="95%"
+      width="96%"
       alt="Google Scholar"
     />
   </a>
@@ -25,13 +25,13 @@
 
 <table>
   <tr>
-    <td width="33.33%" valign="top">
+    <td width="32%" valign="top">
       <img src="./metrics-overview.svg" width="100%" alt="GitHub Overview" />
     </td>
-    <td width="33.33%" valign="top">
+    <td width="32%" valign="top">
       <img src="./metrics-languages.svg" width="100%" alt="Languages" />
     </td>
-    <td width="33.33%" valign="top">
+    <td width="32%" valign="top">
       <img src="./metrics-wakatime.svg" width="100%" alt="WakaTime" />
     </td>
   </tr>
