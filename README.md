@@ -8,8 +8,6 @@
 
 # <sub>AI-RAN • LLM • Quantum Computing</sub>
 
-Researching robust AI for wireless networks, LLM-based RAN intelligence, and systems for next-generation communication.
-
 <p align="left">
   <a href="https://scholar.google.com/citations?user=-Uiul2AAAAAJ">
     <img
