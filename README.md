@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3">
-    <img src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3" alt="Scholar" />
+    <img src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3" width="100%" alt="Scholar" />
   </a>
 </p>
 
