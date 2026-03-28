@@ -1,7 +1,7 @@
 <p align="left">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=&animation=fadeIn"
-    width="80%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&animation=fadeIn"
+    width="95%"
     alt="header"
   />
 </p>
@@ -14,7 +14,7 @@ Researching robust AI for wireless networks, LLM-based RAN intelligence, and sys
   <a href="https://scholar.google.com/citations?user=-Uiul2AAAAAJ">
     <img
       src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-Uiul2AAAAAJ&count=3"
-      width="80%"
+      width="95%"
       alt="Google Scholar"
     />
   </a>
@@ -23,7 +23,7 @@ Researching robust AI for wireless networks, LLM-based RAN intelligence, and sys
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/mud-the-developer/mud-the-developer/main/github-metrics.svg"
-    width="80%"
+    width="95%"
     alt="GitHub Metrics"
   />
 </p>
