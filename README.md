@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<table>
+<!-- <table>
   <tr>
     <td width="32%" valign="top">
       <img src="./metrics-overview.svg" width="100%" alt="GitHub Overview" />
@@ -35,6 +35,9 @@
       <img src="./metrics-wakatime.svg" width="100%" alt="WakaTime" />
     </td>
   </tr>
-</table>
-
-
+</table> -->
+<p align="left">
+  <img src="./metrics-overview.svg" width="100%" alt="GitHub Overview" />
+  <img src="./metrics-languages.svg" width="100%" alt="Languages" />
+  <img src="./metrics-wakatime.svg" width="100%" alt="WakaTime" />
+</p>
