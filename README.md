@@ -1,12 +1,14 @@
 <p align="left">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&animation=fadeIn&fontSize=90"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=&animation=fadeIn"
     width="100%"
     alt="header"
   />
 </p>
 
 # <sub>AI-RAN • LLM • Quantum Computing</sub>
+
+Researching robust AI for wireless networks, LLM-based RAN intelligence, and systems for next-generation communication.
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=-Uiul2AAAAAJ">
