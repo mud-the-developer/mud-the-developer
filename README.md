@@ -14,7 +14,14 @@
 ![arc](https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight)](https://git.io/streak-stats)
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=mud-the-developer&theme=tokyonight"
+    width="100%"
+    alt="GitHub Streak"
+  />
+</p>
+
 ---
 # Links
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhyuk-kim-a97b42242/)
