@@ -37,7 +37,7 @@
   </tr>
 </table> -->
 <p align="left">
-  <img src="./metrics-overview.svg" width="100%" alt="GitHub Overview" />
-  <img src="./metrics-languages.svg" width="100%" alt="Languages" />
-  <img src="./metrics-wakatime.svg" width="100%" alt="WakaTime" />
+  <img src="./metrics-overview.svg" width="95%" alt="GitHub Overview" />
+  <img src="./metrics-languages.svg" width="950%" alt="Languages" />
+  <img src="./metrics-wakatime.svg" width="95%" alt="WakaTime" />
 </p>
