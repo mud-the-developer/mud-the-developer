@@ -36,8 +36,8 @@
     </td>
   </tr>
 </table> -->
-<p align="left">
+<!-- <p align="left">
   <img src="./metrics-overview.svg" width="95%" alt="GitHub Overview" />
-  <img src="./metrics-languages.svg" width="950%" alt="Languages" />
+  <img src="./metrics-languages.svg" width="50%" alt="Languages" />
   <img src="./metrics-wakatime.svg" width="95%" alt="WakaTime" />
-</p>
+</p> -->
