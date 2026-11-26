@@ -11,6 +11,8 @@
 [![Blog](https://img.shields.io/badge/Blog-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://mud-blog.pages.dev)
 <!-- [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://mud-the-developer.tistory.com) -->
 
+[Projects](https://mud-blog.pages.dev/projects/) · [CV](https://mud-blog.pages.dev/cv/) · [CFP Radar](https://mud-blog.pages.dev/cfp/) · [Daily AI News](https://mud-blog.pages.dev/news/) · [RSS](https://mud-blog.pages.dev/rss.xml)
+
 # <sub>AI-RAN • LLM • Quantum Computing</sub>
 
 <p align="left">
